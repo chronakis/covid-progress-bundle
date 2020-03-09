@@ -1,0 +1,8 @@
+[submodule "covid-data-processor"]
+	path = covid-data-processor
+	url = ../covid-data-processor.git
+	branch = master
+[submodule "COVID-19"]
+	path = COVID-19
+	url = https://github.com/CSSEGISandData/COVID-19.git
+	branch = master
