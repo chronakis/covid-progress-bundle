@@ -10,3 +10,7 @@
 	path = covid-ui
 	url = ../covid-ui.git
 	branch = master
+[submodule "covid-data"]
+	path = covid-data
+	url = ../covid-data.git
+	branch = master
