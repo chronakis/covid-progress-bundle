@@ -6,11 +6,11 @@
 	path = COVID-19
 	url = https://github.com/CSSEGISandData/COVID-19.git
 	branch = master
-[submodule "covid-ui"]
-	path = covid-ui
-	url = ../covid-ui.git
-	branch = master
 [submodule "covid-data"]
 	path = covid-data
 	url = ../covid-data.git
+	branch = master
+[submodule "covid-ui"]
+	path = covid-ui
+	url = C:/Users/vmp/Dropbox/git/covid-ui.git
 	branch = master
